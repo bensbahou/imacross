@@ -1,0 +1,3 @@
+VERSION BUILD=12.0.501.6698
+URL GOTO=https://www.google.com
+URL GOTO=javascript:(function(){console.log('hi');})();
